@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mi Primer Sitio Web</title>
+</head>
+<body>
+  <header>
+    <h1>Revista Ph</h1>
+
+
+    <span>HOME</span>
+    <span>NOTICIAS</span>
+    <span>DESTACADOS</span>
+  </header>
+  
+    <main>
+      <article>
+      <p>Esta es una revista online de fotografías digitales y analógicas donde cada uno de sus autores muestran un resumen de su obra <p>
+      <hr />
+      <section>
+      <h2>La carretera</h2>
+
+      <img src="C:\Users\Leila\Desktop\index.html\dgdfgdg.jpg"/>
+    
+      
+        <p>Sobre las entrañas<p>
+        </article>
+        <hr />
+        
+        <article>
+          
+
+          <h3>Desconocido</h3>
+          <img src="C:\Users\Leila\Desktop\index.html\dedoinstaaa.jpg"/>
+
+
+
+       
+          <p>Aún quedan sus huellas</p> 
+        
+        <hr /> 
+  </article>
+ 
+  <article>
+    <div>
+  
+   <h5>Esta es la noticia N2</h5>
+    <p>Este es un listado ordenado del subtitulo numero 2</p>
+  
+    <ol>
+  
+      <li>Este es el item </li>
+      <li>Este es el item </li>
+      <li>Este es el item </li>
+    </div>
+  
+    </ol>
+ </article>
+  <hr />
+
+  <article>
+    <h3>Este es otro subtitulo</h3>
+    <p>Parrafo para otra lista no ordenada</p>
+ 
+  <ul>
+     <li>Lista</li>
+  </ul>
+</article>
+</section>
+</main> 
+
+<footer>
+  <p>
+  Este es el footer de mi pagina. Ahora voy a poner unos enlaces
+  </p>  
+  
+  <a href="./Contacto.html">Formulario de contacto</a>
+ 
+</footer>
+
+
+</body>
+  </html>
+ 
+  
